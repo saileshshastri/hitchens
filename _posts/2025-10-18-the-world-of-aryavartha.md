@@ -3,13 +3,13 @@ title: "The World of Aryavartha"
 layout: post
 ---
 
-These are places from the novel — some familiar, some refracted through the long lens of deep time. Each was illustrated as part of building the world before writing it.
+Before I could write the story, I had to be able to see the world. These illustrations were made as part of that process — not for the book itself, but for me. A way of making the places real enough to inhabit.
 
 <!-- excerpt_separator -->
 
 <figure>
   <img alt="Amaravati under construction" src="/assets/images/amaravati-more-established.png" />
-  <figcaption>Amaravati, in its making. A city of architects and scribes, built at the confluence of empire and river.</figcaption>
+  <figcaption>Amaravati. A city of architects and scribes, built at the confluence of empire and river.</figcaption>
 </figure>
 
 <figure>
@@ -46,3 +46,5 @@ These are places from the novel — some familiar, some refracted through the lo
   <img alt="Asom — the workshop by the river" src="/assets/images/asom.png" />
   <figcaption>Asom. A workshop on the water's edge, where metal and fire and knowledge converge.</figcaption>
 </figure>
+
+The novel spans all of these places and the long distances between them. More on each one as I write my way through them.
