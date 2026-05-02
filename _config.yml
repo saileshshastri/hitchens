@@ -15,12 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Sailesh Shastri
 email: thesaileshshastri@gmail.com
-description: Sailesh Shastri's Homepage 
-baseurl: 
-url:"[https://saileshshastri.com](https://saileshshastri.com)"
+description: Speculative fiction. Long worlds, deep time.
+baseurl:
+url: "https://saileshshastri.com"
 icon: /assets/images/icon-512.png
 twitter_username: saileshshastri
-github_username:  saileshshastri
+github_username: saileshshastri
+hide_credits: true
 
 # Build settings
 markdown: kramdown
