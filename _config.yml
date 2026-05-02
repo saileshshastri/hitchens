@@ -19,8 +19,8 @@ description: Sailesh Shastri's Homepage
 baseurl: 
 url:"[https://saileshshastri.com](https://saileshshastri.com)"
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+twitter_username: saileshshastri
+github_username:  saileshshastri
 
 # Build settings
 markdown: kramdown
