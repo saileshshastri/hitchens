@@ -13,4 +13,4 @@ My debut novel, *The Resonance of Aryavartha: Book 1 — The Awakening*, is an e
 
 I live in the Bay Area. When I'm not writing, I build software.
 
-You can find me on [Twitter](https://twitter.com/saileshshastri) or reach me by [email](mailto:thesaileshshastri@gmail.com).
+You can find me on [Twitter](https://twitter.com/s__shastri) or reach me by [email](mailto:thesaileshshastri@gmail.com).
