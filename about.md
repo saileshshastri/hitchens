@@ -4,7 +4,7 @@ title: About
 ---
 
 <figure style="float: right; margin: 0 0 1.5em 2em; width: 240px;">
-  <img alt="The Resonance of Aryavartha — Book 1: The Awakening" src="/assets/images/BookCoverFinal.png" style="width: 100%; display: block;" />
+  <img alt="The Resonance of Aryavartha — Book 1: The Awakening" src="/assets/images/BookCover.jpg" style="width: 100%; display: block;" />
 </figure>
 
 I write speculative fiction set at the intersection of ancient India, myth, and the far future.

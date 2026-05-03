@@ -4,7 +4,7 @@ layout: post
 ---
 
 <figure>
-  <img alt="The Resonance of Aryavartha — Book 1: The Awakening" src="/assets/images/BookCoverFinal.png" style="max-width: 320px;" />
+  <img alt="The Resonance of Aryavartha — Book 1: The Awakening" src="/assets/images/BookCover.jpg" style="max-width: 320px;" />
 </figure>
 
 *The Resonance of Aryavartha: Book 1 — The Awakening* is published.
